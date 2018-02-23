@@ -1,0 +1,6 @@
+c:\users\netso\documents\visual studio 2013\Projects\NumberToWordTakaApp\NumberToWordTakaApp\bin\Debug\NumberToWordTakaApp.exe.config
+C:\Users\netso\Documents\Visual Studio 2013\Projects\NumberToWordTakaApp\NumberToWordTakaApp\bin\Debug\NumberToWordTakaApp.exe
+C:\Users\netso\Documents\Visual Studio 2013\Projects\NumberToWordTakaApp\NumberToWordTakaApp\bin\Debug\NumberToWordTakaApp.pdb
+C:\Users\netso\Documents\Visual Studio 2013\Projects\NumberToWordTakaApp\NumberToWordTakaApp\obj\Debug\NumberToWordTakaApp.csprojResolveAssemblyReference.cache
+C:\Users\netso\Documents\Visual Studio 2013\Projects\NumberToWordTakaApp\NumberToWordTakaApp\obj\Debug\NumberToWordTakaApp.exe
+C:\Users\netso\Documents\Visual Studio 2013\Projects\NumberToWordTakaApp\NumberToWordTakaApp\obj\Debug\NumberToWordTakaApp.pdb
